@@ -1,7 +1,7 @@
 streamlit
 torch
 torchvision
-pillow
 ultralytics
-pypylon
 opencv-python
+pillow
+pypylon
